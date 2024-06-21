@@ -29,7 +29,8 @@ The cropped images and the list of their corresponding license plate names will 
 <div align="center">
   <img src="imgs/detected-plate.png" alt="Results of Post-Detection Cropping">
   <br>
-  <em>Figure 2: Results of Post-Detection Cropping\n</em>
+  <em>Figure 2: Results of Post-Detection Cropping
+  </em>
 </div>
 
 <div align="center">
