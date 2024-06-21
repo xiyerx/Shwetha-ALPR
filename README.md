@@ -13,7 +13,7 @@ python detect.py --weights best.pt --conf 0.8 --source path/to/your/LPimage_or_i
 The cropped images and the list of their corresponding license plate names will be saved in the `yolov7/cropped_image` folder.
 
 ## System Implementation
-1. **Data Acquisition and Annotation**: A custom dataset of 650 images of vehicles with Indian license plates was created, annotated using Roboflow, and augmented to over 1600 images. 
+1. **Data Acquisition and Annotation**: A custom dataset of 650 images of vehicles with Indian license plates was created, annotated using Roboflow, and augmented to over 1600 images. Access the dataset used for training here:
 <a href="https://universe.roboflow.com/pranay-rtnxk/number-plate-lga09">
     <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
 </a>
