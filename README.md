@@ -18,16 +18,22 @@ The cropped images and the list of their corresponding license plate names will 
 3. **Optical Character Recognition (OCR)**: EasyOCR was used for character recognition from the cropped license plate images.
 4. **Hardware Setup and Deployment**: Raspberry Pi 4 was used as the edge device, interfacing the camera module for real-time image capture.
 
-### ALPR Pipeline
-![Flowchart of ALPR Pipeline](imgs/pipeline.png)
-*Figure 1: Flowchart of ALPR Pipeline*
+# ALPR Pipeline
+<div align="center">
+  <img src="imgs/pipeline.png" alt="Flowchart of ALPR Pipeline">
+  <br>
+  <em>Figure 1: Flowchart of ALPR Pipeline</em>
+</div>
 
 ## Results
-![Results of Post-Detection Cropping](imgs/detected-plate.png)
+<div align="center">
+  <img src="imgs/detected-plate.png" alt="Results of Post-Detection Cropping">
+  <br>
+  <em>Figure 2: Results of Post-Detection Cropping</em>
+</div>
 
-*Figure 2: Results of Post-Detection Cropping*
-
-![Tabulated List of Plates after OCR](imgs/after-ocr.png)
-
-*Figure 3: List of Plates after OCR*
-
+<div align="center">
+  <img src="imgs/after-ocr.png" alt="Tabulated List of Plates after OCR">
+  <br>
+  <em>Figure 3: List of Plates after OCR</em>
+</div>
