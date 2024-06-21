@@ -19,22 +19,21 @@ The cropped images and the list of their corresponding license plate names will 
 4. **Hardware Setup and Deployment**: Raspberry Pi 4 was used as the edge device, interfacing the camera module for real-time image capture.
 
 # ALPR Pipeline
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <img src="imgs/pipeline.png" alt="Flowchart of ALPR Pipeline">
   <br>
-  <em>Figure 1: Flowchart of ALPR Pipeline</em>
+  <p style="margin-top: 10px;"><em>Figure 1: Flowchart of ALPR Pipeline</em></p>
 </div>
 
 ## Results
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <img src="imgs/detected-plate.png" alt="Results of Post-Detection Cropping">
   <br>
-  <em>Figure 2: Results of Post-Detection Cropping
-  </em>
+  <p style="margin-top: 10px;"><em>Figure 2: Results of Post-Detection Cropping</em></p>
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <img src="imgs/after-ocr.png" alt="Tabulated List of Plates after OCR">
   <br>
-  <em>Figure 3: List of Plates after OCR</em>
+  <p style="margin-top: 10px;"><em>Figure 3: List of Plates after OCR</em></p>
 </div>
