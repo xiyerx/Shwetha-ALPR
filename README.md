@@ -19,7 +19,8 @@ The cropped images and the list of their corresponding license plate names will 
 4. **Hardware Setup and Deployment**: Raspberry Pi 4 was used as the edge device, interfacing the camera module for real-time image capture.
 
 ### ALPR Pipeline
-*Figure 4.2: Flowchart of ALPR Pipeline*
+![Flowchart of ALPR Pipeline](imgs/pipeline.png)
+
 
 ## Results
 *Figure 5.1: (a) Results of Post-Detection Cropping*
