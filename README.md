@@ -14,11 +14,11 @@ The cropped images and the list of their corresponding license plate names will 
 
 ## System Implementation
 1. **Data Acquisition and Annotation**: A custom dataset of 650 images of vehicles with Indian license plates was created, annotated using Roboflow, and augmented to over 1600 images.
-2. **Model Training and Refinements**: YOLOv7 model was trained on the dataset for 40 epochs, achieving high accuracy.
+2. **Model Training and Refinements**: YOLOv7 model was trained on the dataset for 40 epochs to achieve high accuracy in license plate detection
 3. **Optical Character Recognition (OCR)**: EasyOCR was used for character recognition from the cropped license plate images.
 4. **Hardware Setup and Deployment**: Raspberry Pi 4 was used as the edge device, interfacing the camera module for real-time image capture.
 
-### Flowchart of ALPR Pipeline
+### ALPR Pipeline
 *Figure 4.2: Flowchart of ALPR Pipeline*
 
 ## Results
