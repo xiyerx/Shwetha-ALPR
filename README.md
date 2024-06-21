@@ -24,7 +24,10 @@ The cropped images and the list of their corresponding license plate names will 
 
 ## Results
 ![Results of Post-Detection Cropping](imgs/detected-plate.png)
+
 *Figure 2: Results of Post-Detection Cropping*
+
 ![Tabulated List of Plates after OCR](imgs/after-ocr.png)
+
 *Figure 3: List of Plates after OCR*
 
