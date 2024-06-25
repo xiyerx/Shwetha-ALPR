@@ -19,7 +19,7 @@ The cropped images and the list of their corresponding license plate names will 
    </a>
 2. **Model Training and Refinements**: YOLOv7 model was trained on the dataset for 40 epochs to achieve high accuracy in license plate detection.
 3. **Optical Character Recognition (OCR)**: EasyOCR was used for character recognition from the cropped license plate images.
-4. **Hardware Setup and Deployment**: Raspberry Pi 4 was used as the edge device, interfacing the camera module for real-time image capture.
+4. **Hardware Setup and Deployment**: Raspberry Pi 4 was used as the edge device to interface the camera module for real-time image capture.
 
 # ALPR Pipeline
 <div align="center" style="margin-bottom: 20px;">
